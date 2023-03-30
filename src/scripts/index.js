@@ -3,7 +3,7 @@ class Producto {
     constructor(categoria, nombre, precio, codigo, enOferta, imagen) {
       this.categoria = categoria.toUpperCase();
       this.nombre = nombre;
-  
+
       // Si el producto esta en oferta, se le aplica un descuento del 10%
       enOferta ? this.precio = parseFloat(precio * 0.9) : this.precio = parseFloat(precio); 
       
@@ -11,7 +11,7 @@ class Producto {
       this.enOferta = enOferta;
       this.imagen = imagen;
     }
-  
+
     //metodo para agergar un codigo al producto aleatoriamente   
     generarCodigo(array) {  
         this.codigo = array.length + 1000;
