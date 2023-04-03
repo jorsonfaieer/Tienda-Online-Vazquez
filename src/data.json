@@ -1,0 +1,67 @@
+[
+    {
+        "categoria": "Buzo",
+        "nombre": "Buzo Kongo Slime Pink",
+        "precio": 26990,
+        "codigo": 1000,
+        "enOferta": false,
+        "imagen": "/src/img/Buzo Kongo Slime Pink.webp"
+    },
+    {
+        "categoria": "Buzo",
+        "nombre": "Buzo Kongo Slime Sky Blue",
+        "precio": 26990,
+        "codigo": 1001,
+        "enOferta": true,
+        "imagen": "/src/img/BuzoKongoSlimeSkyBlue.webp"
+    },
+    {
+        "categoria": "Buzo",
+        "nombre": "Buzo Kongo Tour",
+        "precio": 25990,
+        "codigo": 1002,
+        "enOferta": true,
+        "imagen": "/src/img/Buzo Kongo Tour.webp"
+    },
+    {
+        "categoria": "Buzo",
+        "nombre": "Buzo Summer Lime",
+        "precio": 23990,
+        "codigo": 1003,
+        "enOferta": false,
+        "imagen": "/src/img/Buzo Summer Lime.webp"
+    },
+    {
+        "categoria": "Remera",
+        "nombre": "Remeron Kongo Blanco",
+        "precio": 11990,
+        "codigo": 1010,
+        "enOferta": true,
+        "imagen": "/src/img/Remeron Kongo Blanco.webp"
+    },
+    {
+        "categoria": "Remera",
+        "nombre": "Remeron Kongo Negro",
+        "precio": 11990,
+        "codigo": 1011,
+        "enOferta": false,
+        "imagen": "/src/img/Remeron Kongo Negro.webp"
+    },
+    {
+        "categoria": "Pantalon",
+        "nombre": "Pantalon Parachute Pink",
+        "precio": 19990,
+        "codigo": 1016,
+        "enOferta": false,
+        "imagen": "/src/img/Pantalon Parachute Pink.webp"
+    },
+    {
+        "categoria": "Pantalon",
+        "nombre": "Pantalon Cargo Black",
+        "precio": 24590,
+        "codigo": 1017,
+        "enOferta": true,
+        "imagen": "/src/img/Pantalon Cargo Black.webp"
+    }
+
+]
