@@ -5,7 +5,7 @@
         "precio": 26990,
         "codigo": 1000,
         "enOferta": false,
-        "imagen": "/src/img/Buzo Kongo Slime Pink.webp"
+        "imagen": "src/img/Buzo Kongo Slime Pink.webp"
     },
     {
         "categoria": "Buzo",
@@ -13,7 +13,7 @@
         "precio": 26990,
         "codigo": 1001,
         "enOferta": true,
-        "imagen": "/src/img/BuzoKongoSlimeSkyBlue.webp"
+        "imagen": "src/img/BuzoKongoSlimeSkyBlue.webp"
     },
     {
         "categoria": "Buzo",
@@ -21,7 +21,7 @@
         "precio": 25990,
         "codigo": 1002,
         "enOferta": true,
-        "imagen": "/src/img/Buzo Kongo Tour.webp"
+        "imagen": "src/img/Buzo Kongo Tour.webp"
     },
     {
         "categoria": "Buzo",
@@ -29,7 +29,7 @@
         "precio": 23990,
         "codigo": 1003,
         "enOferta": false,
-        "imagen": "/src/img/Buzo Summer Lime.webp"
+        "imagen": "src/img/Buzo Summer Lime.webp"
     },
     {
         "categoria": "Remera",
@@ -37,7 +37,7 @@
         "precio": 11990,
         "codigo": 1010,
         "enOferta": true,
-        "imagen": "/src/img/Remeron Kongo Blanco.webp"
+        "imagen": "src/img/Remeron Kongo Blanco.webp"
     },
     {
         "categoria": "Remera",
@@ -45,7 +45,7 @@
         "precio": 11990,
         "codigo": 1011,
         "enOferta": false,
-        "imagen": "/src/img/Remeron Kongo Negro.webp"
+        "imagen": "src/img/Remeron Kongo Negro.webp"
     },
     {
         "categoria": "Pantalon",
@@ -53,7 +53,7 @@
         "precio": 19990,
         "codigo": 1016,
         "enOferta": false,
-        "imagen": "/src/img/Pantalon Parachute Pink.webp"
+        "imagen": "src/img/Pantalon Parachute Pink.webp"
     },
     {
         "categoria": "Pantalon",
@@ -61,7 +61,7 @@
         "precio": 24590,
         "codigo": 1017,
         "enOferta": true,
-        "imagen": "/src/img/Pantalon Cargo Black.webp"
+        "imagen": "src/img/Pantalon Cargo Black.webp"
     }
 
 ]
